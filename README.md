@@ -10,6 +10,4 @@ A comprehensive **Power BI Sales Dashboard** created to visualize and analyze sa
 ### Key Features  
 - Interactive charts and visuals to explore sales trends by region, product, and time period.  
 - Dynamic filtering using slicers and parameters for a tailored user experience.  
-- KPI cards showing revenue, growth rate, and top-performing products.  
-
-> This dashboard helps stakeholders quickly identify trends, monitor performance, and make data-driven decisions.
+- KPI cards showing revenue, growth rate, and top-performing products.
