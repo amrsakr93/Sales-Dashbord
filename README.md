@@ -1,5 +1,5 @@
-Sales Dashboard – Power BI
------------------------------
+**Sales Dashboard – Power BI**
+
 A comprehensive Power BI Sales Dashboard created to visualize and analyze sales performance effectively.
 •	Tools & Techniques Used:
     o	Power Query for data cleaning, transformation, and preparation.
