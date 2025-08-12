@@ -2,7 +2,7 @@
 A comprehensive **Power BI Sales Dashboard** created to visualize and analyze sales performance effectively.  
 
 ## Project Walkthrough Video
-[🎥 Watch the Full Project Video] ((https://drive.google.com/file/d/11W7B5BGb5CfMr11E2oYwoDWOcgz1tr_X/view?usp=sharing))
+[🎥 Watch the Full Project Video] (https://drive.google.com/file/d/11W7B5BGb5CfMr11E2oYwoDWOcgz1tr_X/view?usp=sharing)
 
 ### Tools & Techniques Used  
 - **Power Query** for data cleaning, transformation, and preparation.  
